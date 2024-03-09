@@ -1,29 +1,29 @@
-## Data Types
-# String
+### Data Types
+## String
 
 
-# Integer
+## Integer
 
 
-# Boolean
+## Boolean
 
 
 ### Data Structures
-# Array
+## Array
 
 
-# Hash
+## Hash
 
 
-## Using Data
-# Variables
+### Using Data
+## Variables
 
 
-# Conditionals
+## Conditionals
 
 
-# Looping
+## Looping
 
 
-# Methods
+## Methods
 
